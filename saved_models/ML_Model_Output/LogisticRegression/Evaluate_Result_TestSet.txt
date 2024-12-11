@@ -1,0 +1,13 @@
+AUROC=0.7532918506623846	AUPRC=0.7136828844013239	Accuracy=0.6644295302013423	MCC=0.3285287060042276	Recall=0.6650943396226415	Precision=0.6409090909090909	f1_score=0.6527777777777778
+
+######NOTE#######
+#According to help_documentation of sklearn.metrics.classification_report:in binary classification, recall of the positive class is also known as sensitivity; recall of the negative class is specificity#
+
+              precision    recall  f1-score   support
+
+     control       0.69      0.66      0.68       235
+        case       0.64      0.67      0.65       212
+
+    accuracy                           0.66       447
+   macro avg       0.66      0.66      0.66       447
+weighted avg       0.67      0.66      0.66       447
