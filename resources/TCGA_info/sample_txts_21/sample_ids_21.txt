@@ -1,0 +1,7 @@
+TCGA-AX-A1CJ-01A-11R-A136-13_mirna_gdc_realn
+TCGA-BK-A13B-01A-51R-A22I-13_mirna_gdc_realn
+TCGA-D1-A103-01A-11R-A10I-13_mirna_gdc_realn
+TCGA-DI-A1NO-01A-31R-A156-13_mirna_gdc_realn
+TCGA-B5-A11R-01A-11R-A119-13_mirna_gdc_realn
+TCGA-D1-A167-01A-11R-A12H-13_mirna_gdc_realn
+TCGA-D1-A0ZO-01A-11R-A119-13_mirna_gdc_realn
