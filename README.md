@@ -8,13 +8,14 @@ Author: Zhang Yusa
 
 Truncated_Peaks_Classifier_demo: The demo version of a serious machine learning  models to identify if a peak has been interrupted due to modifications  during a normal sRNA NGS  data analysis.
 
-## Dataset
+## Graphic Abstract
+
+![image-20241210225717352](./_plots/figure2.png)
+
+## Dataset Constrcytion
 
 ![image-20241210225717352](./_plots/figure1.png)
 
-## Model Structure
-
-![image-20241210225802910](./_plots/figure2.png)
 
 ## To do list
 
