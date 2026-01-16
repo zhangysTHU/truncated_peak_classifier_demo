@@ -52,3 +52,8 @@ Introduction of folders in `truncated_peak_classifier_demo`
 - **saved_models**: Contains output and model save files for machine learning (ML) and two types of model save files for deep learning (DL).
 - **training_notebooks**: Contains Jupyter notebooks for building and training machine learning (ML) and deep learning (DL) models.
 
+#### To Do List
+- [x] Gradually modify absolute paths to relative paths
+- [x] Update English version annotations
+- [ ] Snakemake or directly callable packaged interface
+- [ ] add enviroument setup tutorial 
