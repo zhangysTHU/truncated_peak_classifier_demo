@@ -1,0 +1,17 @@
+features_num,newly_removed,feature_group,retained_channels
+640,Full model,Full model,16
+600,Structure: ),Structure,15
+560,Structure: (,Structure,14
+520,Structure: .,Structure,13
+480,Sequence G,Sequence,12
+440,Sequence C,Sequence,11
+400,Sequence T,Sequence,10
+360,Sequence A,Sequence,9
+320,RNA editing,Modification,8
+280,Other mods,Modification,7
+240,Pseudouridine,Modification,6
+200,m7G,Modification,5
+160,Nm,Modification,4
+120,m5C,Modification,3
+80,m6A,Modification,2
+40,m1A,Modification,1

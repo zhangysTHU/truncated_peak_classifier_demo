@@ -1,0 +1,17 @@
+features_num,newly_removed,feature_group,retained_channels
+640,Full model,Full model,16
+600,Coverage,Coverage,15
+560,m1A,Modification,14
+520,m6A,Modification,13
+480,m5C,Modification,12
+440,Nm,Modification,11
+400,m7G,Modification,10
+360,Pseudouridine,Modification,9
+320,Other mods,Modification,8
+280,RNA editing,Modification,7
+240,Sequence positions 1–10,Sequence,6
+200,Sequence positions 11–20,Sequence,5
+160,Sequence positions 21–30,Sequence,4
+120,Sequence positions 31–40,Sequence,3
+80,Structure columns 1–40,Structure,2
+40,Structure columns 41–80,Structure,1
